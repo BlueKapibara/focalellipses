@@ -1,2 +1,2 @@
-# focalellipses.github.io
+# bluekapibara.github.io/focalellipses
 My first website.
